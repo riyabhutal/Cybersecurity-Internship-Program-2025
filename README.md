@@ -71,8 +71,8 @@ Cybersecurity-Internship-Program-2025/
  Final Project Report (PDF)
  GitHub Repo with Full Structure
 🧑‍💻 Author
-Name: SaiChandram Sadhu
-Email: saichandram.sadhu.it@gmail.com GitHub: @saichandram-sadhu
+Name:Riya Bhutal
+Email: riyabhutal@gmail.com
 Institution: Gujarat University
 
 📜 License
