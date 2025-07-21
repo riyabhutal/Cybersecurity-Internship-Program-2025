@@ -1,25 +1,41 @@
-📁 Cybersecurity Internship Program – 2025
-🛡️ Digisuraksha Parhari Foundation
-Duration: July–August 2025
-Format: 100% Online · 120 Hours (34 Hours Live + 86 Hours Practical)
+# 📁 Cybersecurity Internship Program – 2025
 
-📌 About the Internship
-The Cybersecurity & Ethical Hacking Internship hosted by Digisuraksha Parhari Foundation is a hands-on, research-driven, and certification-backed internship aligned with UGC guidelines and NEP 2020. This repository contains all project work, reports, writeups, scripts, and analysis artifacts completed during the internship.
+### 🛡️ Digisuraksha Parhari Foundation  
+**Duration**: July–August 2025  
+**Format**: 100% Online · 120 Hours (34 Hours Live + 86 Hours Practical)
 
-🧠 Learning Tracks Covered
-MITRE ATT&CK Mapping
-Malware Analysis & IOC Extraction
-Linux Privilege Escalation
-OSINT & Recon Techniques
-Web Exploits (XSS, SQLi, CSRF, SSRF)
-Vulnerable VM Writeups
-Incident Response & Log Analysis
-Final Reporting & GitHub Documentation
-🔨 Tools & Platforms Used
-TryHackMe | VulnHub | HackTheSite | PortSwigger
-OverTheWire (Bandit) | Hybrid Analysis | MISP
-Graylog | ELK Stack | YARA | GitHub
-📁 Folder Structure
+---
+
+## 📌 About the Internship
+
+The **Cybersecurity & Ethical Hacking Internship** hosted by **Digisuraksha Parhari Foundation** is a hands-on, research-driven, and certification-backed internship aligned with UGC guidelines and NEP 2020. This repository contains all **project work, reports, writeups, scripts, and analysis artifacts** completed during the internship.
+
+---
+
+## 🧠 Learning Tracks Covered
+
+- MITRE ATT&CK Mapping
+- Malware Analysis & IOC Extraction
+- Linux Privilege Escalation
+- OSINT & Recon Techniques
+- Web Exploits (XSS, SQLi, CSRF, SSRF)
+- Vulnerable VM Writeups
+- Incident Response & Log Analysis
+- Final Reporting & GitHub Documentation
+
+---
+
+## 🔨 Tools & Platforms Used
+
+- TryHackMe | VulnHub | HackTheSite | PortSwigger
+- OverTheWire (Bandit) | Hybrid Analysis | MISP
+- Graylog | ELK Stack | YARA | GitHub
+
+---
+
+## 📁 Folder Structure
+
+```
 Cybersecurity-Internship-Program-2025/
 ├── README.md
 ├── LICENSE
@@ -59,30 +75,46 @@ Cybersecurity-Internship-Program-2025/
 │   ├── Final-Reports/
 │   ├── GitHub-Upload-Guide.md
 │   └── Peer-Review-Summary.md
-📄 Key Deliverables
- MITRE ATT&CK TTP Mapping
- Custom YARA Rules
- IOC Feeds from APT28 samples
- Bandit + Linux Privesc Notes
- OSINT Recon Reports
- Web Exploits Writeups (XSS, SQLi, SSRF)
- Vulnerable VM Rooting Guides
- Incident Timeline Reconstruction
- Final Project Report (PDF)
- GitHub Repo with Full Structure
-🧑‍💻 Author
-Name:Riya Bhutal
-Email: riyabhutal@gmail.com
-Institution: Gujarat University
+```
 
-📜 License
-This repository is released under the MIT License.
+---
+
+## 📄 Key Deliverables
+
+- [x] MITRE ATT&CK TTP Mapping
+- [x] Custom YARA Rules
+- [x] IOC Feeds from APT28 samples
+- [x] Bandit + Linux Privesc Notes
+- [x] OSINT Recon Reports
+- [x] Web Exploits Writeups (XSS, SQLi, SSRF)
+- [x] Vulnerable VM Rooting Guides
+- [x] Incident Timeline Reconstruction
+- [x] Final Project Report (PDF)
+- [x] GitHub Repo with Full Structure
+
+---
+
+## 🧑‍💻 Author
+
+**Name**: Riya Bhutal
+**Email**: riyabhutal@gmail.com
+**GitHub**: https://github.com/riyabhutal/Cybersecurity-Internship-Program-2025
+**Institution**: Gujarat University  
+
+---
+
+## 📜 License
+
+This repository is released under the MIT License.  
 Feel free to fork, use, and contribute with proper attribution.
 
-🔗 Useful Links
-🔗 Digisuraksha Foundation
-🧠 TryHackMe
-🛠️ OverTheWire
-📊 Hybrid Analysis
-🕸️ MISP Project
-🔍 VulnHub
+---
+
+## 🔗 Useful Links
+
+- 🔗 [Digisuraksha Foundation](https://www.digisuraksha.org)
+- 🧠 [TryHackMe](https://tryhackme.com)
+- 🛠️ [OverTheWire](https://overthewire.org)
+- 📊 [Hybrid Analysis](https://www.hybrid-analysis.com)
+- 🕸️ [MISP Project](https://www.misp-project.org)
+- 🔍 [VulnHub](https://vulnhub.com)
