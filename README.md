@@ -99,15 +99,13 @@ Cybersecurity-Internship-Program-2025/
 **Name**: Riya Bhutal
 **Email**: riyabhutal@gmail.com
 **GitHub**: https://github.com/riyabhutal/Cybersecurity-Internship-Program-2025
-**Institution**: Gujarat University  
+**Institution**: Mumbai University  
 
 ---
 
 ## 📜 License
 
 This repository is released under the MIT License.  
-Feel free to fork, use, and contribute with proper attribution.
-
 ---
 
 ## 🔗 Useful Links
