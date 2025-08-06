@@ -31,11 +31,3 @@ Learning 5: Researching/Learning about Malware Analysis, and studying about shar
 - https://www.malwr4n6.com/post/macos-malware-analysis-pkg-files - https://learn.microsoft.com/en-us/sysinternals/
 
 Learning 6: learn about different security frameworks, working, and try to utilize those skills.
-
-
-## Updates:
-
-- 1. POC of the two alloted tools is done.
-- 2. Malware Analysis is pending as of right now. 
-- 3. POC of Threat Intelligence on the topic MITRE ATTACK Framework ( Enterprise ) is completed.
-- 4. POC of Homoglyph Detection tool is completed and uploaded with a sample text file, with the original Python Script.
