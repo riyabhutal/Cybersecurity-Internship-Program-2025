@@ -1,7 +1,7 @@
 # 📁 Cybersecurity Internship Program – 2025
 
 ### 🛡️ Digisuraksha Parhari Foundation  
-**Duration**: July–August 2025  
+**Duration**: July–September 2025  
 **Format**: 100% Online · 120 Hours (34 Hours Live + 86 Hours Practical)
 
 ---
@@ -18,9 +18,6 @@ The **Cybersecurity & Ethical Hacking Internship** hosted by **Digisuraksha Parh
 - Malware Analysis & IOC Extraction
 - Linux Privilege Escalation
 - OSINT & Recon Techniques
-- Web Exploits (XSS, SQLi, CSRF, SSRF)
-- Vulnerable VM Writeups
-- Incident Response & Log Analysis
 - Final Reporting & GitHub Documentation
 
 ---
@@ -58,23 +55,8 @@ Cybersecurity-Internship-Program-2025/
 │   ├── Image-Tracking-Tools.md
 │   ├── Passive-Recon.md
 │   └── OHsint-Notes.md
-├── Week-5_Web-Exploits/
-│   ├── XSS-Report.md
-│   ├── SQLi-Logs.md
-│   ├── SSRF-Test-Scripts/
-│   └── PortSwigger-Links.md
-├── Week-6_VulnVMs/
-│   ├── MrRobot-Writeup.md
-│   ├── DC-1-Root.md
-│   └── Screenshots/
-├── Week-7_Log-IR/
-│   ├── Graylog-Queries.md
-│   ├── Threat-Hunting-Checklist.md
-│   └── Timeline-Reconstruction.xlsx
-├── Week-8_Finalization/
-│   ├── Final-Reports/
-│   ├── GitHub-Upload-Guide.md
-│   └── Peer-Review-Summary.md
+├── Week-5_Finalization/
+
 ```
 
 ---
@@ -86,11 +68,7 @@ Cybersecurity-Internship-Program-2025/
 - [x] IOC Feeds from APT28 samples
 - [x] Bandit + Linux Privesc Notes
 - [x] OSINT Recon Reports
-- [x] Web Exploits Writeups (XSS, SQLi, SSRF)
-- [x] Vulnerable VM Rooting Guides
-- [x] Incident Timeline Reconstruction
-- [x] Final Project Report (PDF)
-- [x] GitHub Repo with Full Structure
+- [x] File Encryption aand Decryption
 
 ---
 
@@ -116,3 +94,4 @@ This repository is released under the MIT License.
 - 📊 [Hybrid Analysis](https://www.hybrid-analysis.com)
 - 🕸️ [MISP Project](https://www.misp-project.org)
 - 🔍 [VulnHub](https://vulnhub.com)
+
